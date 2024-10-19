@@ -1,0 +1,7 @@
+E:\Customer\opensource\serial-port-open\obj\Debug\SerialPort.csprojAssemblyReference.cache
+E:\Customer\opensource\serial-port-open\obj\Debug\SerialPort.Form1.resources
+E:\Customer\opensource\serial-port-open\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Customer\opensource\serial-port-open\obj\Debug\SerialPort.csproj.GenerateResource.cache
+E:\Customer\opensource\serial-port-open\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+E:\Customer\opensource\serial-port-open\obj\Debug\WindowsFormsApp1.exe
+E:\Customer\opensource\serial-port-open\obj\Debug\WindowsFormsApp1.pdb
