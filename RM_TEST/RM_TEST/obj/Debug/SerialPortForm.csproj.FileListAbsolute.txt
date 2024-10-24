@@ -28,3 +28,13 @@ D:\people_2024\LBY\software\SRC\c#\serial-port-open-master\obj\Debug\SerialPortF
 D:\people_2024\LBY\software\SRC\c#\serial-port-open-master\obj\Debug\SerialPortForm.csproj.CoreCompileInputs.cache
 D:\people_2024\LBY\software\SRC\c#\serial-port-open-master\obj\Debug\WindowsFormsApp1.exe
 D:\people_2024\LBY\software\SRC\c#\serial-port-open-master\obj\Debug\WindowsFormsApp1.pdb
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\bin\Debug\WindowsFormsApp1.exe.config
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\bin\Debug\WindowsFormsApp1.exe
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\bin\Debug\WindowsFormsApp1.pdb
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\SerialPortForm.csproj.AssemblyReference.cache
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\SerialPortForm.Form1.resources
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\SerialPortForm.csproj.GenerateResource.cache
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\SerialPortForm.csproj.CoreCompileInputs.cache
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\WindowsFormsApp1.exe
+D:\Project_Sum\Chargingpile_Test\Clone\Chargingpile\RM_TEST\RM_TEST\obj\Debug\WindowsFormsApp1.pdb

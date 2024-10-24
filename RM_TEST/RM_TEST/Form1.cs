@@ -320,7 +320,7 @@ namespace SerialPortForm
                     Console.WriteLine("消息ID：" + messagID);
 
                     Show_ID(device_ID.ToString());//显示ID
-
+                    //表示从data[12]开始复制长度为len-9的数据到data_get中
                     Array.Copy(data, 12, data_get, 0, len - 9);
                     // data_get
                     cmdUnpack((PackageType)cmd, data_get, len - 9);
