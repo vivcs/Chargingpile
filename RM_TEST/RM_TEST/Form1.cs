@@ -255,9 +255,9 @@ namespace SerialPortForm
             data_sendt[dat_len + 12] = (byte)(datsum & 0xff);
             data_sendt[dat_len + 13] = (byte)(datsum >> 8);
 
-            MySendData(data_sendt, len + 5);//总数据长度 = len + 3字节帧头头 + 2字节长度
+            MySendData(data_sendt, len + 5);//总数据长度 = len + 3字节帧头头 + 2字节长度12E1
 
-            return data_sendt; // 返回数据包
+            return data_sendt; // 返回数据包DADAD
         }
 
         public class DataParams
