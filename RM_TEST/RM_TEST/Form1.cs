@@ -399,9 +399,9 @@ namespace SerialPortForm
                         energy = (ushort)((data[5] << 8) | data[4]);
                         power = (ushort)((data[8] << 8) | data[7]);
                         voltage = (ushort)((data[34] << 8) | data[35]);
-                        current = (ushort)((data[38] << 8) | data[37]);
-                        temp = data[39];
-                        com_temp = data[40];
+                        current = (ushort)((data[37] << 8) | data[36]);
+                        temp = data[38];
+                        com_temp = data[39];
                         Console.WriteLine("voltage：" + voltage + "  current：" + current + "  power：" + power + "  energy：" + energy);
                         // textBox_power1.Clear(); // 清空旧数据
 
